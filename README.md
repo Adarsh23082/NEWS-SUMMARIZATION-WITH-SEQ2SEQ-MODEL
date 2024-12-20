@@ -12,7 +12,7 @@ The project utilizes the **News Summary Dataset** from Kaggle, which contains:
 
 The dataset is preprocessed to remove noise, tokenize text, and prepare it for training the Seq2Seq model.
 
-Dataset source: [Kaggle News Summary Dataset](https://www.kaggle.com/sunnysai12345/news-summary) *(add actual link if used)*
+Dataset source: [Kaggle News Summary Dataset](https://www.kaggle.com/sunnysai12345/news-summary) 
 
 ---
 
@@ -34,7 +34,6 @@ Dataset source: [Kaggle News Summary Dataset](https://www.kaggle.com/sunnysai123
 - Applied **regularization techniques** to prevent overfitting.
 
 ### 4. **Evaluation**
-- Measured the quality of generated summaries using **BLEU scores**.
 - Compared model outputs with human-written summaries to evaluate relevance and clarity.
 
 ---
